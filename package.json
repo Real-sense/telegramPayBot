@@ -1,0 +1,23 @@
+{
+  "name": "lets_pay_bot",
+  "version": "1.0.0",
+  "description": "Оплата товаров через Яндекс кассу",
+  "main": "index.js",
+  "dependencies": {
+    "nodemon": "^1.15.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Real-sense/telegramPayBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Real-sense/telegramPayBot/issues"
+  },
+  "homepage": "https://github.com/Real-sense/telegramPayBot#readme"
+}
